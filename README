@@ -6,3 +6,5 @@ Licensed under BSD
 This was my first attempt at creating an iPhone game. The goal was to create an iPhone version of the Flash game 'Splashback' which I saw on Digg several years ago.  (http://www.funny-games.biz/splash-back.html).
 
 The game is playable but the graphics are very lacking (just drawing lines instead of using sprites) and could use better titles, etc.  Someone made a polished version of this game (which also has prebuilt-levels instead of randomly generated ones) called Snappers.
+
+Note that this code is less organized than is normal for me.  I'm adding it to github a year and a half after I last worked on it and I wasn't expecting to make it available to the public.  Also, it probably has memory leaks since this was my first Objective C program and I didn't focus heavily in making it production-ready. 
