@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'splashback-cocos2d' target in the 'splashback-cocos2d' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
